@@ -1,0 +1,9 @@
+- My name is Cade
+- I currently study Cybersecurity
+- I have experience solely in frontend development
+-   Javascript
+-   HTML
+-   CSS
+-   Python
+- Currently I am pursuing React.js and Node.js to learn more about backend development
+- I plan to become a full-stack programmer
