@@ -14,3 +14,52 @@
 <div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V0dTBvZWY0djRhNWlxNnV6eWFyeHI2NGsycW5vaWdxa255NmF5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pChYU23X2y8XC/giphy.gif" alt="Avatar">
 </div>
+
+```python
+
+class AboutMe:
+    def __init__(self):
+        self.name = "Cade Rupert"
+        self.role = "Full-Stack Developer"
+        self.skills = ["Python", "JavaScript", "Flask", "Node.js", "RESTful APIs"]
+        self.interests = ["Deep Learning", "Neural Networks", "AI", "Open Source"]
+        self.caffeine_consumption_per_day_in_mg = 400
+
+    def introduce(self):
+        print(f"Hi, I’m {self.name}, a {self.role} who loves {', '.join(self.interests)}!")
+
+class CadeNet:
+    layers = ["Input: Curiosity", "Dense: Python Skills", "Dense: JS/Full-Stack", "Output: Innovative Solutions"]
+    optimizer = "CreativityOptimizer()"
+    loss_function = "BugFreeLoss()"
+    epochs = 999
+    learning_rate = "Adaptable"
+
+```
+
+<h2>Some tools I have experience with!</h2>
+<p align="left">
+<!-- Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="30" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" width="30"/>
+
+<!-- Backend / Frameworks / Libraries -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="30" width="30"/>
+<img src="imgs/tools/ejs.svg" height="30" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="30" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="30" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pug/pug-original.svg" height="30" width="30"/>
+
+<!-- Tools / Platforms / OS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="30" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" width="30"/>
+
+</p>
