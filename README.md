@@ -27,6 +27,11 @@ class AboutMe:
 
     def introduce(self):
         print(f"Hi, I’m {self.name}, a {self.role} who loves {', '.join(self.interests)}!")
+    
+    def funFacts(self):
+        print("I started my programming journey at 12 years old with HTML, CSS and JavaScript!")
+        print("My favorite show is Avatar: The Last Airbender")
+        print("I was born and raised in NJ, USA")
 
 class CadeNet:
     layers = ["Input: Curiosity", "Dense: Python Skills", "Dense: JS/Full-Stack", "Output: Innovative Solutions"]
