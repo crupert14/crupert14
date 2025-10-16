@@ -11,4 +11,6 @@
 <a href="mailto:rupertcade@gmail.com"><img src="imgs/logos/gmail.png" alt="Email" width="25" height="25"></a>
 </div>
 
+<div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V0dTBvZWY0djRhNWlxNnV6eWFyeHI2NGsycW5vaWdxa255NmF5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pChYU23X2y8XC/giphy.gif" alt="Avatar">
+</div>
