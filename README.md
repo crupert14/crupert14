@@ -63,6 +63,7 @@ class CadeNet:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pug/pug-original.svg" height="30" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" height="30" width="30"/>
 
 <!-- Tools / Platforms / OS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" width="30"/>
