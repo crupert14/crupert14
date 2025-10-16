@@ -72,5 +72,5 @@ class CadeNet:
 
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crupert14&show_icons=true&commits_year=2025&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Cade's GitHub stats](https://github-readme-stats.vercel.app/api?username=crupert14&show_icons=true&commits_year=2025&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
